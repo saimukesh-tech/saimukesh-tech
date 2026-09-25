@@ -20,7 +20,7 @@
 
 I am an **AI & Machine Learning Engineer** and Artificial Intelligence undergraduate at **Vasireddy Venkatadri Institute of Technology (VVIT)** specializing in designing, training, and deploying end-to-end Machine Learning models, Generative AI applications, Deep Learning architectures, and scalable REST microservices. Strong foundation in Data Structures, Algorithms, and enterprise software engineering principles.
 
-- **Domain Focus**: Generative AI, RAG Systems, AI Agents (LangChain, LangGraph,  ML Predictive Analytics.
+- **Domain Focus**: Generative AI, RAG Systems, AI Agents (LangChain, LangGraph),  ML Predictive Analytics.
 - **Problem Solving & Competitive Coding**: 1000+ problems solved on CodeChef | CodeChef Diamond Badge (100-Day Streak) | CodeChef Gold Badge in Problem Solving.
 - **Academic Background**: B.Tech in Artificial Intelligence and Machine Learning (AIML) at VVIT (CGPA: 8.05 / 10).
 
