@@ -20,7 +20,7 @@
 
 I am an **AI & Machine Learning Engineer** and Artificial Intelligence undergraduate at **Vasireddy Venkatadri Institute of Technology (VVIT)** specializing in designing, training, and deploying end-to-end Machine Learning models, Generative AI applications, Deep Learning architectures, and scalable REST microservices. Strong foundation in Data Structures, Algorithms, and enterprise software engineering principles.
 
-- **Domain Focus**: Generative AI, RAG Systems, AI Agents (LangChain, LangGraph, IBM Granite), Computer Vision, Cybersecurity ML, Predictive Analytics.
+- **Domain Focus**: Generative AI, RAG Systems, AI Agents (LangChain, LangGraph,  ML Predictive Analytics.
 - **Problem Solving & Competitive Coding**: 1000+ problems solved on CodeChef | CodeChef Diamond Badge (100-Day Streak) | CodeChef Gold Badge in Problem Solving.
 - **Academic Background**: B.Tech in Artificial Intelligence and Machine Learning (AIML) at VVIT (CGPA: 8.05 / 10).
 
@@ -35,7 +35,7 @@ I am an **AI & Machine Learning Engineer** and Artificial Intelligence undergrad
       <ul>
         <li><b>Generative AI & LLMs</b>: RAG, AI Agents, Prompt Engineering, Fine-Tuning, Tool Calling, IBM Granite</li>
         <li><b>LLM Frameworks & Engines</b>: LangChain, LangGraph, Hugging Face, Groq</li>
-        <li><b>Deep Learning & Vision</b>: PyTorch, TensorFlow, CNNs, RNNs, Transformers, OpenCV</li>
+        <li><b>Deep Learning & Vision</b>:  CNNs, RNNs, Transformers,</li>
         <li><b>Machine Learning</b>: Scikit-learn, XGBoost, EDA, Feature Engineering, Model Optimization</li>
         <li><b>Data Analysis</b>: NumPy, Pandas, Matplotlib, Seaborn</li>
       </ul>
@@ -45,9 +45,9 @@ I am an **AI & Machine Learning Engineer** and Artificial Intelligence undergrad
       <ul>
         <li><b>Languages</b>: Python, C++, Java, SQL, JavaScript</li>
         <li><b>Core Computer Science</b>: Data Structures & Algorithms, Object-Oriented Programming (OOP)</li>
-        <li><b>Backend Engineering</b>: FastAPI, Django, Express.js, RESTful Architecture</li>
-        <li><b>DevOps & Deployment</b>: Docker, AWS, Git, GitHub Actions, Linux</li>
-        <li><b>Databases & Storage</b>: PostgreSQL, Firebase, MongoDB, SQLite</li>
+        <li><b>Backend Engineering</b>: FastAPI, Django, </li>
+        <li><b>DevOps & Deployment</b>: Docker, AWS, Git, GitHub Actions, </li>
+        <li><b>Databases & Storage</b>: PostgreSQL, </li>
       </ul>
     </td>
   </tr>
@@ -62,7 +62,7 @@ I am an **AI & Machine Learning Engineer** and Artificial Intelligence undergrad
   | Category | Technologies |
   | :--- | :--- |
   | **Languages** | <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a> <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a> <a href="https://www.sql.org/"><img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a> |
-  | **AI & ML Frameworks** | <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a> <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a> <a href="https://langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/></a> <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a> <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></a> <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a> |
+
   | **Backend & Web** | <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></a> <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a> <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/></a> <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></a> |
   | **Data & Cloud** | <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/></a> <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a> <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a> <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a> |
   | **DevOps & Tools** | <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a> <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a> <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a> <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a> |
