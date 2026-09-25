@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&height=50&lines=Hi,+I'm+Sai+Mukesh+Chandaluri;AI+%26+Machine+Learning+Engineer;Generative+AI+•+Deep+Learning+•+MLOps;PyTorch+•+TensorFlow+•+FastAPI+•+DSA" alt="Typing SVG" />
+ 
 
   <p align="center">
     <b>AI & Machine Learning Engineer</b>
